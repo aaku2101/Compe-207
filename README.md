@@ -1,2 +1,2 @@
-# Compe-207
+# Compe_207_HW1
 Assignments
